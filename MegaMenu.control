@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ControlDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.0.0</Version>
+  <BaseControlType />
+  <KBSpecific>false</KBSpecific>
+  <DataSourceAllowed>None</DataSourceAllowed>
+  <CustomDataSources />
+  <AutoGrowSupported>false</AutoGrowSupported>
+  <DefinitionDirectory>C:\Program Files (x86)\Genexus\genexus_143413\UserControls\MegaMenu</DefinitionDirectory>
+  <IncludeInControlInfo>false</IncludeInControlInfo>
+  <IsEditable>false</IsEditable>
+  <IsDeprecated>false</IsDeprecated>
+  <SupportFiles>
+    <Directory>css</Directory>
+    <Directory>data</Directory>
+    <Directory>js</Directory>
+    <Directory>Tutorial</Directory>
+  </SupportFiles>
+  <iOS_SupportFiles />
+  <Android_SupportFiles />
+  <BB_SupportFiles />
+  <RuntimeRender>MegaMenuRender.js</RuntimeRender>
+  <WidthPropertyName>Width</WidthPropertyName>
+  <HeightPropertyName>Height</HeightPropertyName>
+  <ResizeSupported>true</ResizeSupported>
+  <Description>MegaMenu</Description>
+  <OldDescriptions />
+  <Id>00000000-0000-0000-0000-000000000000</Id>
+  <Name>MegaMenu</Name>
+  <Platforms />
+  <ShowMethod>show</ShowMethod>
+  <ReferencedFiles>
+    <File>css\megamenu.css</File>
+  </ReferencedFiles>
+  <iOS_ReferencedFiles />
+  <Android_ReferencedFiles />
+  <BB_ReferencedFiles />
+  <Constructor>
+    <Parameters />
+    <Name>MegaMenu</Name>
+  </Constructor>
+  <PropertiesDefinition>MegaMenuProperties.xml</PropertiesDefinition>
+  <ObjClass>MegaMenu</ObjClass>
+  <DesignRender>MegaMenuRender.xsl</DesignRender>
+  <PlatformDefault>0</PlatformDefault>
+  <iOS_PlatformDefault>0</iOS_PlatformDefault>
+  <Android_PlatformDefault>0</Android_PlatformDefault>
+  <ControlType />
+  <Categories />
+  <Events>
+    <Event>onclick</Event>
+  </Events>
+  <Methods />
+  <Actions />
+  <IsPublic>true</IsPublic>
+  <Android_IsScrollable>false</Android_IsScrollable>
+  <LastLoad>0001-01-01T00:00:00</LastLoad>
+</ControlDefinition>
